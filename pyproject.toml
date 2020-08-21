@@ -13,6 +13,9 @@ scikit-learn = "^0.22.2"
 tensorflow = "^2.2.0"
 tfa-nightly = "^0.10.0-alpha.20200505184857"
 statsmodels = "^0.11.1"
+jupyter = "^1.0.0"
+elegy = {path = "../elegy"}
+dm-haiku = "^0.0.2"
 
 [tool.poetry.dev-dependencies]
 
